@@ -1,7 +1,7 @@
 %% INTRODUCTION
 % Title:             ISOPROPANOL & NITROUS OXIDE ENGINE BUILDER & SIMULATOR
 % Developer:         Evan Olsen
-% Date:              11/13/2023
+% Date:              01/20/2024
 %
 % Project Iteration: Nitron I
 % Team:              RIT Liquid Propulsion
