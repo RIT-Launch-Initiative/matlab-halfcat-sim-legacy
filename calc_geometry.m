@@ -52,7 +52,7 @@ elseif nozzle_type_int == 3
 % 
 % nozzle_contour=transpose(raw_noz_wall)*D_th_m*0.5;
 
-nozzle_contour=csvread('noz_contour.csv');
+nozzle_contour=csvread('MOC_contour_temp.csv');
 nozzle_contour(:,3)=[];
 nozzle_contour=transpose(nozzle_contour)*D_th_m*0.5;
 end
